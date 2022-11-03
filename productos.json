@@ -1,0 +1,80 @@
+[
+	{
+		"precio": 2500,
+		"id": 1,
+		"title": "Consulta",
+                 "thumbnailUrl": "#"
+	},
+	{
+		"precio": 2500,
+		"id": 2,
+		"title": "Vacuna sextuple",
+		"thumbnailUrl": "#"
+	},
+    {
+		"precio": 2500,
+		"id": 3,
+		"title": "Vacuna Lepto",
+		"thumbnailUrl": "#"
+	},
+	{
+		"precio": 2500,
+		"id": 4,
+		"title": "Vacuna Triple",
+		"thumbnailUrl": "#"
+	},
+	{
+		"precio": 2500,
+		"id": 5,
+		"title": "Vacuna Quintuple",
+		"thumbnailUrl": "#"
+	},
+    {
+		"precio": 1900,
+		"id": 6,
+		"title": "Vacuna Rabia",
+		"thumbnailUrl": "#"
+	},
+	{
+		"precio": 2400,
+		"id": 7,
+		"title": "Analisis de sangre",
+		"thumbnailUrl": "#"
+	},
+    {
+		"precio": 2500,
+		"id": 8,
+		"title": "Suero subcutaneo",
+		"thumbnailUrl": "#"
+	},
+    {
+		"precio": 4000,
+		"id": 9,
+		"title": "Dia de internacion de gato",
+		"thumbnailUrl": "#"
+	},
+    {
+		"precio": 4000,
+		"id": 10,
+		"title": "Dia de internacion de perro chico",
+		"thumbnailUrl": "#"
+	},
+    {
+		"precio": 5000,
+		"id": 11,
+		"title": "Dia de internacion de perro mediano",
+		"thumbnailUrl": "#"
+	},
+    {
+		"precio": 6000,
+		"id": 12,
+		"title": "Dia de internacion de perro grande",
+		"thumbnailUrl": "#"
+	},
+    {
+		"precio": 12000,
+		"id": 13,
+		"title": "Limpieza de dientes",
+		"thumbnailUrl": "#"
+	}
+]

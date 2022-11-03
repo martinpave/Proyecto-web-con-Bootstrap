@@ -1,3 +1,6 @@
+
+
+
 let pregunta = prompt("Quieres saber el precio de la consulta, cirugias, vacunas o nuestra Ubicacion? (s-salir)");
 
 while(pregunta!="s"){
@@ -111,3 +114,14 @@ cambiarColor2.innerHTML = `
 <a href="https://www.google.com.ar/maps/place/Centro+m%C3%A9dico+veterinario+Roca/@-34.5358215,-58.5034025,17z/data=!3m1!4b1!4m5!3m4!1s0x95bcb6d3c0b2099d:0x852c255c395169ad!8m2!3d-34.5358047!4d-58.5011691" target="_blank" class="btn btn-outline-secondary btn-danger btn-lg px-4" id="ubicacion">Ubicacion</a>
 `;
 }
+
+
+
+
+
+
+
+
+
+
+       
